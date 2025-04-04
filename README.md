@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shubham Fendar
 
-<!--
-**shubhamfendar/shubhamfendar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Software Engineer** | ☕ Java Enthusiast | ☁️ Cloud Explorer  
+📍 Nagpur, Maharashtra, India  
+ 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a passionate **Java Developer** with **2.5 years** of experience in **Core Java, J2EE**, and **Microservices** development. 
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**  
+`Java` `Java EE` `Spring Boot` `Hibernate` `Microservices` `REST APIs` `SQL`
+
+**Tools & Platforms:**  
+`Maven` `Git` `BitBucket` `JIRA` `Postman` `SonarQube` `Jacoco` `Shell Scripting`
+
+**Cloud & DevOps:**  
+`AWS` `GCP` `IntelliJ` `Eclipse` `SQLDeveloper` `APM` `Log4j`
+
+**Methodologies:**  
+`Agile` `Scrum` `Waterfall` `SDLC`
+
+---
+
+## 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shubham-fendar) 
+ 
+- 📬 Drop me an email at: **fendar.shubham96@gmail.com**
+
+---
+
